@@ -1,0 +1,6 @@
+{
+  "name": "Neo-Sneaks | Streetwear E-Commerce",
+  "description": "High-contrast streetwear sneaker e-commerce platform featuring curated drops, live cart drawer, size selection, and responsive checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
